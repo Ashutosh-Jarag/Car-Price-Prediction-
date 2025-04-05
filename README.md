@@ -18,9 +18,9 @@ This project is a simple machine learning model designed to predict car prices b
 - Simple linear regression model with 92% accuracy on the dataset
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/username/Car-Price-Prediction-.git`
+1. Clone the repository: `git clone https://github.com/Ashutosh-jarag/Car-Price-Prediction-.git`
 2. Install dependencies(python, numpy, matplotlib, seaborn, scikit-learn)
-3. Place the dataset (e.g., `car_data.csv`) in the project’s root directory
+3. Place the dataset (e.g., `quikr_car.csv`) in the project’s root directory
 4. Open the Jupyter Notebook (`Car_Price_Prediction.ipynb`) to run the analysis and model
 
 ## Usage
